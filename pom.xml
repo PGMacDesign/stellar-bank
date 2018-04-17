@@ -47,11 +47,11 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>com.stellar.code</groupId>
-			<artifactId>stellar</artifactId>
-			<version>0.1.14</version>
-		</dependency>
+		<!--<dependency>-->
+			<!--<groupId>com.stellar.code</groupId>-->
+			<!--<artifactId>stellar</artifactId>-->
+			<!--<version>0.1.14</version>-->
+		<!--</dependency>-->
 
 		<dependency>
 			<groupId>mysql</groupId>
